@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="cWADb2j5wWIPOI93jzW_" name="Page-1">
+        <mxGraphModel dx="888" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="OV7670 Controller" style="externalPins=0;recursiveResize=0;shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.rtl.abstract.entity;container=1;collapsible=0;kind=sequential;drawPins=1;left=i_clk%3Ai%2C%20i_rst%3Ai%2C%20i_cmd(2)%3Ai%2C%20i_valid%3Ai%2C%20o_ready%3Ao;right=cam_siod%3Aio%2C%20cam_sioc%3Aio%2C%20o_cam_pwdn%3Ao%2C%20o_cam_rst%3Ao;bottom=0;top=0;allowArrows=1;leftArr=,,,,;type_size=30;leftRot=0;verticalAlign=top;spacingTop=6;topRot=0;pinSnap=10;type=fsm;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="30" width="260" height="290" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
